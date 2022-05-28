@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 mindhunter
 double jeopardy
 masters and commanders
+=======
+Pulses
+Meat
+Green leafy vegs
+>>>>>>> main
